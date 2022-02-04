@@ -2,6 +2,8 @@
 
 Preview: https://www.loom.com/share/7c9cd59f944d4c869982979a30e1c85a (Part 1)
 
+https://www.loom.com/share/636587111eb74f85b7807eaceccdbca4 (Part 2)
+
 
 
 ## What is CodeIgniter?
